@@ -11,5 +11,6 @@ Store each collection of data into a document into Mongodb
 
 Create a GUI using streamlit
 
-![image](https://user-images.githubusercontent.com/115566259/222878937-65f497ea-c98b-42fd-993f-3adfddeee1cf.png)
+![Screenshot 2023-03-04 113241](https://user-images.githubusercontent.com/115566259/222879069-e0ab4fd2-2f9d-43ac-ab1b-673a1accfd6e.png)
+
 
